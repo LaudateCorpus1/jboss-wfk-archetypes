@@ -32,7 +32,7 @@
 
     <properties>
         <junit.version>4.10</junit.version>
-        <maven.version>3.0.5</maven.version>
+        <maven.version>3.8.1</maven.version>
     </properties>
 
 
